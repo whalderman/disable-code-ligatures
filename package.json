@@ -1,0 +1,14 @@
+{
+	"author": "Warren Halderman",
+	"devDependencies": {
+		"archiver": "^7.0.1"
+	},
+	"keywords": [],
+	"license": "ISC",
+	"prettier": {
+		"useTabs": true
+	},
+	"scripts": {
+		"zip": "node scripts/zipDist.mjs"
+	}
+}
