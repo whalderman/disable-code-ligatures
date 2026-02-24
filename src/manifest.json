@@ -20,10 +20,6 @@
 			"data_collection_permissions": {
 				"required": ["none"]
 			}
-		},
-
-		"safari": {
-			"strict_min_version": "15.4"
 		}
 	},
 	"icons": {
