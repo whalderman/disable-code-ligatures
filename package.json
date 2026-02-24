@@ -3,8 +3,6 @@
 	"devDependencies": {
 		"archiver": "^7.0.1"
 	},
-	"keywords": [],
-	"license": "ISC",
 	"prettier": {
 		"useTabs": true
 	},
