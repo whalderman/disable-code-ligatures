@@ -1,4 +1,4 @@
-@layer disable-ligatures-extension {
+@layer disable-code-ligatures-extension {
 	code {
 		font-variant-ligatures: none !important;
 		font-feature-settings:
